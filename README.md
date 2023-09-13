@@ -4,6 +4,8 @@
 
 ## Color flipper project:
 
+<img src=".github/images-github/color-flipper.png">
+
 A simple color flipper. On button click select by random a hexidecimal color.
 The creation of this project targets:
 - Bootstrap familiarization;
