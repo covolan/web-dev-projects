@@ -3,8 +3,9 @@
 ---
 
 ## Color flipper project:
-
-<img src=".github/images-github/color-flipper.png">
+<div align="center">
+  <img src="./images-github/color-flipper.png" width="70%">
+</div>
 
 A simple color flipper. On button click select by random a hexidecimal color.
 The creation of this project targets:
